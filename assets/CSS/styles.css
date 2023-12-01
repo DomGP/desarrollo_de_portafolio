@@ -51,6 +51,9 @@ body {
   padding-bottom: 10em;
   background-color: #14143c;
 }
+main p{
+  text-align: justify;
+}
 
 /* Imagen Circular */
 #about img {
